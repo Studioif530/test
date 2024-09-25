@@ -1,0 +1,14 @@
+C:\Users\psyij\source\repos\테스트3\테스트3\bin\Debug\net8.0\테스트3.exe
+C:\Users\psyij\source\repos\테스트3\테스트3\bin\Debug\net8.0\테스트3.deps.json
+C:\Users\psyij\source\repos\테스트3\테스트3\bin\Debug\net8.0\테스트3.runtimeconfig.json
+C:\Users\psyij\source\repos\테스트3\테스트3\bin\Debug\net8.0\테스트3.dll
+C:\Users\psyij\source\repos\테스트3\테스트3\bin\Debug\net8.0\테스트3.pdb
+C:\Users\psyij\source\repos\테스트3\테스트3\obj\Debug\net8.0\테스트3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\psyij\source\repos\테스트3\테스트3\obj\Debug\net8.0\테스트3.AssemblyInfoInputs.cache
+C:\Users\psyij\source\repos\테스트3\테스트3\obj\Debug\net8.0\테스트3.AssemblyInfo.cs
+C:\Users\psyij\source\repos\테스트3\테스트3\obj\Debug\net8.0\테스트3.csproj.CoreCompileInputs.cache
+C:\Users\psyij\source\repos\테스트3\테스트3\obj\Debug\net8.0\테스트3.dll
+C:\Users\psyij\source\repos\테스트3\테스트3\obj\Debug\net8.0\refint\테스트3.dll
+C:\Users\psyij\source\repos\테스트3\테스트3\obj\Debug\net8.0\테스트3.pdb
+C:\Users\psyij\source\repos\테스트3\테스트3\obj\Debug\net8.0\테스트3.genruntimeconfig.cache
+C:\Users\psyij\source\repos\테스트3\테스트3\obj\Debug\net8.0\ref\테스트3.dll
